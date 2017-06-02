@@ -1,0 +1,77 @@
+[10-Sep-2015 01:48:36 UTC] PHP Notice:  Undefined index: national_type in /home/thietken/public_html/hoangnh1/ajax/save.php on line 35
+[10-Sep-2015 01:48:36 UTC] PHP Notice:  Undefined index: type in /home/thietken/public_html/hoangnh1/ajax/save.php on line 36
+[10-Sep-2015 01:48:36 UTC] PHP Notice:  Undefined index: adultNo in /home/thietken/public_html/hoangnh1/ajax/save.php on line 50
+[10-Sep-2015 01:48:36 UTC] PHP Notice:  Undefined index: childNo in /home/thietken/public_html/hoangnh1/ajax/save.php on line 50
+[10-Sep-2015 01:48:36 UTC] PHP Notice:  Undefined index: infantNo in /home/thietken/public_html/hoangnh1/ajax/save.php on line 50
+[20-Sep-2015 05:28:33 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on 'mysql.onehost.vn' (111) in /home/thietken/public_html/hoangnh1/models/Home.php on line 11
+[24-Oct-2015 06:20:18 UTC] PHP Notice:  Undefined index: request in /home/thietken/public_html/hoangnh1/ajax/save.php on line 14
+[16-Dec-2015 15:45:36 UTC] PHP Notice:  Undefined index: request in /home/thietken/public_html/hoangnh1/ajax/save.php on line 14
+[29-Dec-2015 14:20:14 UTC] PHP Notice:  Undefined index: request in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 14
+[29-Dec-2015 14:20:14 UTC] PHP Notice:  Undefined index: depatureDate in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 29
+[29-Dec-2015 14:22:03 UTC] PHP Notice:  Undefined index: request in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 14
+[29-Dec-2015 14:22:03 UTC] PHP Notice:  Undefined index: depatureDate in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 29
+[19-Jan-2016 10:37:22 UTC] PHP Notice:  Undefined index: request in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 14
+[19-Jan-2016 10:37:22 UTC] PHP Notice:  Undefined index: depatureDate in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 29
+[07-Feb-2016 10:52:10 UTC] PHP Notice:  Undefined index: request in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 14
+[07-Feb-2016 10:52:10 UTC] PHP Notice:  Undefined index: depatureDate in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 29
+[28-Jun-2016 04:48:52 UTC] PHP Notice:  Undefined index: type in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 36
+[28-Jun-2016 04:48:52 UTC] PHP Notice:  Undefined index: adultNo in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 50
+[28-Jun-2016 04:48:52 UTC] PHP Notice:  Undefined index: childNo in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 50
+[28-Jun-2016 04:48:52 UTC] PHP Notice:  Undefined index: infantNo in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 50
+[28-Jun-2016 06:24:25 UTC] PHP Notice:  Undefined index: request in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 14
+[28-Jun-2016 06:24:25 UTC] PHP Notice:  Undefined index: depatureDate in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 29
+[04-Jul-2016 07:25:40 UTC] PHP Notice:  Undefined index: request in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 14
+[04-Jul-2016 07:25:40 UTC] PHP Notice:  Undefined index: depatureDate in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 29
+[23-Aug-2016 09:47:57 UTC] PHP Notice:  Undefined index: request in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 14
+[23-Aug-2016 09:48:26 UTC] PHP Notice:  Undefined index: request in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 14
+[14-Sep-2016 09:58:54 UTC] PHP Notice:  Undefined index: request in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 14
+[14-Sep-2016 09:58:54 UTC] PHP Notice:  Undefined index: depatureDate in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 29
+[19-Sep-2016 08:47:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[20-Sep-2016 06:13:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[27-Sep-2016 02:04:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[27-Sep-2016 06:58:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[27-Sep-2016 07:04:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[01-Oct-2016 05:04:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[01-Oct-2016 05:44:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[01-Oct-2016 05:45:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[06-Oct-2016 00:12:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[06-Oct-2016 03:05:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[07-Oct-2016 03:55:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[10-Oct-2016 02:28:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[02-Nov-2016 04:11:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[09-Nov-2016 13:36:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[10-Nov-2016 14:56:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[14-Nov-2016 01:33:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[17-Nov-2016 23:48:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[18-Nov-2016 01:25:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[18-Nov-2016 01:42:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[18-Nov-2016 01:51:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[18-Nov-2016 06:16:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[18-Nov-2016 07:00:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[18-Nov-2016 07:01:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[18-Nov-2016 07:48:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[18-Nov-2016 08:30:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[18-Nov-2016 08:42:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[18-Nov-2016 10:45:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[18-Nov-2016 10:45:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[24-Nov-2016 05:00:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[13-Dec-2016 08:35:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[01-Jan-2017 15:31:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[04-Jan-2017 13:03:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[04-Jan-2017 13:04:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[04-Jan-2017 13:05:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[31-Jan-2017 17:47:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[31-Jan-2017 17:50:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[31-Jan-2017 17:50:34 UTC] PHP Notice:  Undefined index: request in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 14
+[31-Jan-2017 17:50:34 UTC] PHP Notice:  Undefined index: depatureDate in /home/thietke7/public_html/vereairline.com/ajax/save.php on line 29
+[31-Jan-2017 17:52:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[24-Feb-2017 04:56:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[26-Feb-2017 01:52:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[26-Feb-2017 01:53:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[08-Mar-2017 06:47:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[15-Mar-2017 07:52:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[26-Mar-2017 16:15:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[26-Mar-2017 16:15:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[26-Mar-2017 16:41:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[27-Mar-2017 04:35:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11
+[27-Mar-2017 04:36:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thietke7/public_html/vereairline.com/models/Home.php on line 11

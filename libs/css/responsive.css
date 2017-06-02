@@ -1,0 +1,558 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 12, 2014, 10:37:09 AM
+    Author     : chuoi
+*/
+@media (max-width:360px){
+    #box-header .row-fluid:first-child{
+        margin-top: -25px !important;
+        
+    }
+    #box-header{
+        min-height: 130px !important;
+    }
+}
+@media (max-width:1200px){
+    #main-menu .navbar-nav li a{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+@media (max-width:991px){
+    .class-even{
+    width: 98% !important;
+    margin-left: 8px;
+    }
+
+    #box-top{
+    height: 35px;
+    }
+    #box-top h1{
+    margin-top: 2px !important;
+    }
+    footer .col-md-4.copy-right{
+        line-height: 20px;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+    .article-list .col-md-6:first-child{
+        padding: 0px;
+    }
+    .col-md-6.copy-right{
+        margin-bottom: 0;
+    }
+    #popup .popupcontent{
+        left: 20%;
+        width: 60%;
+    }
+    .hot-new .news-col2{width: 68%}
+    .hot-new .news-col3{
+        width: 24%;
+    }
+    #box-header .row-fluid:first-child{
+        float: left;
+        width: 100%;
+    }
+     .logo img{
+        width: 65%;
+    }
+    #article-bl2{
+        margin-bottom: 0px;
+	padding-left: 0px;
+    }
+    #supports .col-md-12:first-child{
+        width: 100%;float: left;
+    }
+    #supports .tab-content .col-md-6{
+        margin-bottom: 0px;
+    }
+    #supports .tab-content .col-md-6:first-child,
+    #supports .tab-content .col-md-6:last-child{
+        width: 50%;
+    }
+    #supports .tab-content .col-md-6:first-child {
+        padding-right: 7px;
+    }
+    .tab-pane .hotro{
+        height: auto;padding-bottom: 15px;
+    }
+    #service ul{
+        width: 100%;
+    }
+    [class*="col-md"]{
+        float: left;
+        max-width: 100%;
+    }
+    .banner-left{
+        float: left;
+    }
+    .banner-left.col-md-6{
+        width: 50%;margin-top: 25px;
+    }
+    #main-menu .navbar-right {
+    width: 100%;
+    margin: 15px 0;
+    padding-left: 20px;
+}
+    #box-header .dk a{
+        padding: 4px 8px;
+        font-size: 11px;
+    }
+    #box-header .col2{
+        width: 38%;
+    }
+    #box-header .col1{width: 30%}
+    #box-header .col4{width: 30%}
+    .sitename{
+        margin-top: 40px;
+    }
+    #box-header .dk{
+        margin-top: 85px;margin-right: 0px;
+		font-size:18px;
+    }
+	#box-header .dk p:last-child{
+        font-size:16px;
+    }
+	#box-header .dk p{
+		height: 25px;
+	}
+    .logo img{
+        margin-top: 0px;
+    }
+    #supports .col-md-6:last-child{
+        margin-top: 0px;
+    }
+    #main-menu li #icon-home{
+         background-image: url(../image/home.png);
+        background-repeat: no-repeat;
+        width: 100%;
+        background-position: 20px -43px;
+            height: 43px;
+    }
+   #main-menu .navbar-collapse{
+        border-top: none;
+        margin-left:  0px;
+        margin-right:  0px;
+    }
+    #main-menu .active #icon-home{
+       
+        background-position: 20px 7px;
+    
+    }
+     #main-menu .navbar-nav li.first{
+        display: none;
+    }
+    
+    /*menu*/
+    #main-menu .navbar-header{
+        border-radius: 0px;width: 100%;
+    }
+    #main-menu .navbar-nav{
+     //   margin-top: 0px;
+    }
+    #navbar{
+        border: none;
+        border-bottom: solid 1px #eaeaea;
+        box-shadow: none;
+    }
+    #main-menu #icon-home{
+        font-size: 30px
+    }
+    #main-menu .navbar-nav li{
+        width: 100%;
+    }
+    #main-menu .navbar-nav li a{
+    padding-bottom: 8px;
+    text-transform: uppercase;text-shadow: none;
+    }
+    #main-menu .navbar-nav li.active a{
+        background: #202f66;
+        color: #FFF;
+    }
+ 
+    .navbar-toggle{
+        display: block;
+    }
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+    .navbar-collapse.in {
+    overflow-y: hidden;
+    display: block !important;
+    }
+    .navbar-header {
+    display: inline-block;
+    float: none;
+    }
+    
+    footer .col-md-8.social-box{
+        text-align: center;float: none;
+        margin-bottom: 20px;
+    }
+    footer .bottom-box i{
+        float: none;margin-left: 0px;
+    }
+    footer .col-md-4.copy-right{
+        text-align: center;
+        margin-bottom: 0;float: none;
+    }
+    footer .bottom-box a:last-child i{
+        margin-left: 0px;
+    }
+     #box-top .col-md-6{
+        width: 50%; float: left;
+    }
+   footer .container.box-info .col-md-4{
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    .col-md-6{
+        width: 100%;
+        float: left;
+        margin-bottom: 25px;
+    }
+    #content .form-search .col-md-6{
+        margin-bottom: 0px;
+    }
+    #content .col-md-6,
+    #content .col-md-6:first-child,
+    #content .col-md-6:last-child{
+        padding: 0px;
+    }
+    #content #carousel .flex-direction-nav li a,
+    #content #slider .flex-direction-nav a{
+        opacity: 1;
+    }
+    .flex-direction-nav .flex-next{
+        right: 20px;
+    }
+    .flex-direction-nav .flex-prev{
+        left: 20px;
+    }
+    .block-article.left-col .col-md-4,
+    .article .col-md-4,
+    .article .col-md-3{
+        float: left;width: 15%;
+    }
+    .block-article.left-col .col-md-8,
+    .article .col-md-8,
+    .article .col-md-9{
+        float: left;width: 85%;
+    }
+    #canbiet ul{
+        width: 50%; float: left;
+    }
+    #canbiet .col-md-6{
+        margin-bottom: 10px;
+    }
+}
+@media (max-width:800px){
+    #popup .popupcontent{
+        left: 15%;
+    }
+    #popup .popupcontent div a{
+        margin-left: 0px;
+    }
+#slider img {
+height: 330px;
+}
+}
+@media (max-width:1024px){
+.tab-pane .hotro span{
+margin-right: 5px !important;
+}
+.filter-title {
+	display: none;
+}
+.ps-with label{
+font-size: 10px;
+}
+.hot-new .news-col3 .dk{
+font-size: 10px;
+}
+}
+@media (min-width:768px) and (max-width: 980px){
+    #box-header{
+        min-height: 290px !important;
+    }
+}
+@media (min-width: 1024px) and (max-width: 1279px){
+    #main-menu .navbar-nav li a{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 768px){
+    #box-header{
+        min-height: 290px !important;
+    }
+}
+@media (max-width:768px){
+#slider img {
+height: 330px;
+}
+
+    .tab-pane .hotro .hotro-user{
+        display: none;
+    }
+    .hot-new .news-col2{width: 92%}
+    .hot-new .news-col3{
+        width: 29%;
+    }
+    #main-menu .navbar-right{
+        padding-left: 0px;
+    }
+    .article .col-md-3{
+        float: left;width: 20%;
+    }
+    .article .col-md-9{
+        float: left;width: 80%;
+    }
+    .navbar-toggle{
+        margin-right: 30px;
+        margin-left: 15px;
+    }
+      .logo img{
+        width: 70%;
+    }
+    
+    #box-header .col2{
+        display: none;
+    }
+    #box-header .col4{
+        width: 65%;
+    }
+    
+   
+}
+
+@media (max-width:655px){
+    .tab-pane .hotro .hotro-yahoo{
+        display: none;
+    }
+    #popup .popupcontent{
+        left: 0;
+        width: 100% !important;
+        min-width: 0;
+    }
+}
+@media (max-width:612px){
+#box-top{
+        height: 45px;
+    }
+  .hot-new .news-col2{width: 58%}
+    .hot-new .news-col3{
+        width: 34%;
+    }
+   #box-top .col-md-6:first-child{
+        margin-bottom: 5px;text-align: center;
+    }
+    #box-top .col-md-6{
+        width: 100%;
+    }
+     #box-top input{
+        margin-top: 0px;
+        margin-bottom: 0px;
+        width: 92%;
+        border-top: solid 1px #c9c9c9;
+        border-bottom: solid 1px #c9c9c9;
+        border-left: 0px;float: left;
+    }
+    #box-top .search{
+        width: 8%;
+    }
+    #box-top .col-md-6:last-child{
+        padding: 0px;
+    }
+    #box-top .search:before{
+        right: 8%;
+    }
+}
+@media (max-width:590px){ 
+#box-top{
+        height: 45px;
+    }
+   #supports .tab-content .col-md-6:last-child, #supports .tab-content .col-md-6:first-child {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 10px;
+    }
+    footer .bottom-box i{
+       font-size: 20px;
+        width: 55px;
+        height: 54px;
+        line-height: 55px;
+    }
+
+}
+@media (max-width:480px){
+	#box-top{
+        height: 45px;
+    }
+	
+    .hot-new marquee{
+        margin-right: 0px;
+    }
+    #box-header .dk{
+        margin-top: 0px;
+    }
+    #supports .row-fluid:last-child .col-md-6:last-child {
+        margin-bottom: 0px;
+    }
+    #canbiet ul:last-child,
+    #canbiet ul{
+        width: 100%;
+        padding: 0 15px;
+    }
+    #canbiet ul:first-child{
+        margin-bottom: 0px;
+    }
+    
+    .banner-left.col-md-6:first-child{
+        margin-top: 25px;
+    }
+    .banner-left.col-md-6{
+        width: 100%;margin-top: 0px;padding-left: 0px;
+    }
+    footer .bottom-box i{
+        margin-bottom: 2px;
+    }
+    .ps-with div:last-child,
+    .btn-search,
+    .ps-with div{
+        width: 100%;
+        padding-right: 0px;
+    }
+    .hot-new .news-col1{
+        width: 15%;
+    }
+    .hot-new .news-col2{
+        width: 85%;
+    }
+    .hot-new .news-col3{
+        width: 100%;
+    }
+    .form-search .form-title .formtitle2{
+        overflow: hidden;
+        height: 47px;
+    }
+    .block-article.left-col .col-md-4,
+    .article .col-md-4,
+     .article .col-md-3{
+        float: left;width: 30%;
+    }
+    
+    .block-article.left-col .col-md-8,
+    .article .col-md-8,
+    .article .col-md-9{
+        float: left;
+        width: 70%;
+    }
+    .tab-pane .hotro{
+        float: left;height: auto;padding: 0 15px;margin-top: 0;
+    }
+    #supports .tab-content .col-md-6:last-child,
+    #supports .tab-content .col-md-6:first-child{
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;margin-bottom: 10px;
+    }
+     .logo img{
+        width: 90%;
+    }
+    .article-list .col-md-6:first-child,
+    #article-bl2 .article,
+    #article-bl1 .article,
+    .block-article.left-col .row:nth-child(4),
+    footer .col-md-4:last-child,
+    .banner-left.col-md-12,
+    .hotro-yahoo,
+    #canbiet,
+    #service{
+        display: none;
+    }
+    #article-bl2 .article-main .article-view,
+    #article-bl1 .article-main .article-view{
+        margin-bottom: 20px;
+    }
+    .hot-new,
+    footer .bottom-box{
+        margin-top: 0px;
+    }
+    #article-bl2, .article-list .col-md-6:last-child,
+    footer .container{
+        padding-top: 25px;
+    }
+    div#article-bl2 {
+	padding-top: 0;
+    }
+     .tab-pane .hotro .hotro-number .hotro-phone{
+        margin-right: 5px;
+    }
+      .tab-pane .hotro .hotro-user{
+        display: none;
+    }
+    .tab-pane .hotro .hotro-number{
+        margin: 0px;
+    }
+      #supports .tab-content .col-md-6:last-child, #supports .tab-content .col-md-6:first-child{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+@media (max-width:450px){
+#box-top{
+        height: 45px;
+    }
+        footer .bottom-box i {
+        font-size: 16px;
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        }
+}
+@media (max-width:320px){
+#box-top{
+        height: 45px;
+    }
+    .form-search .form-title .formtitle2{
+        display: none;
+    }
+    .form-search .form-title .formtitle1{
+        width: 100%;
+    }
+    .dk p:first-child{
+        background: none;
+        padding-left: 0px;
+    }
+    footer .container.box-info .col-md-4:nth-child(2){
+        height: 300px;
+    }
+    .block-article.left-col .col-md-4,
+    .block-article.left-col .col-md-8,
+    .article .col-md-4,
+    .article .col-md-3,
+    .article .col-md-8,
+    .article .col-md-9{
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+  
+  
+   
+    
+    .page .form-search .form-content{
+	 border: solid 10px #ffdd00;padding: 1px;
+    }
+    .page .btn-search{
+	font-weight: normal;
+	
+    }
+}
