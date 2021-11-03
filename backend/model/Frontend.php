@@ -12,8 +12,8 @@ class Fontend {
 		mysql_connect('localhost', 'root', '') or die("Can't connect to server");
 	        mysql_select_db('dongho') or die("Can't connect database");
 	}else{
-		   mysql_connect('localhost', 'thietke7_vere', 'vereairline@@!@#') or die("Can't connect to server");
-                mysql_select_db('thietke7_vereairline') or die("Can't connect database");  
+		   mysql_connect('localhost', 'vereairlin7c3a', 'bc33b31aa434a6c3') or die("Can't connect to server");
+                mysql_select_db('vereairline_7c3a') or die("Can't connect database");  
 	}
         mysql_query("SET NAMES 'utf8'") or die(mysql_error());
     }
